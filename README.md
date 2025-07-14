@@ -16,4 +16,8 @@ Degree Program in Systemic Design, the project now continues as a thesis. Its de
 will focus on enhancing the current device to make it more flexible and suitable for musical
 and experiential contexts.
 
+
 ![ultrasuono_in_the_making Medium](https://github.com/user-attachments/assets/07a5e950-0028-4124-a5cd-7b097b618947)
+
+
+![ultrasuono_rapporto_antropometrico Medium](https://github.com/user-attachments/assets/c54b7848-2b02-4acd-b043-2c6b14324e9d)
