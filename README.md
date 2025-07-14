@@ -15,3 +15,5 @@ Originally developed as part of the Design for Components module within the Mast
 Degree Program in Systemic Design, the project now continues as a thesis. Its development
 will focus on enhancing the current device to make it more flexible and suitable for musical
 and experiential contexts.
+
+![ultrasuono_in_the_making Medium](https://github.com/user-attachments/assets/07a5e950-0028-4124-a5cd-7b097b618947)
