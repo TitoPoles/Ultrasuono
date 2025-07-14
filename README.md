@@ -1,2 +1,17 @@
 # Ultrasuono
 turn climate into sound
+
+By Angelo Valerio Angiola, Federico Bottari, Nicolò Buselli, Tito Poles
+
+Ultrasuono is an environmental recorder capable of perceiving the microclimate around it,
+transforming it into a series of sound effects that directly influence the recorded audio.
+The environmental parameters taken into account are light, humidity, and temperature. The
+result is an exploratory tool capable of generating unique, unrepeatable, and ever-evolving
+sounds, designed for artists, live performers, sound designers, and field recorders.
+Ultrasuono is an open-source project, and all the necessary documentation to replicate
+it—using standard electronic modules, basic components, and a 3D printer—will.
+
+Originally developed as part of the Design for Components module within the Master's
+Degree Program in Systemic Design, the project now continues as a thesis. Its development
+will focus on enhancing the current device to make it more flexible and suitable for musical
+and experiential contexts.
