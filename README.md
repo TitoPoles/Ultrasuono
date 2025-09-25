@@ -9,7 +9,7 @@ The environmental parameters taken into account are light, humidity, and tempera
 result is an exploratory tool capable of generating unique, unrepeatable, and ever-evolving
 sounds, designed for artists, live performers, sound designers, and field recorders.
 Ultrasuono is an open-source project, and all the necessary documentation to replicate
-it—using standard electronic modules, basic components, and a 3D printer—will.
+it using standard electronic modules, basic components, and a 3D printer.
 
 Originally developed as part of the Design for Components module within the Master's
 Degree Program in Systemic Design, the project now continues as a thesis. Its development
