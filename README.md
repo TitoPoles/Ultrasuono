@@ -16,3 +16,4 @@ will focus on enhancing the current device to make it more flexible, professiona
 
 <img src="https://github.com/user-attachments/assets/c54b7848-2b02-4acd-b043-2c6b14324e9d" alt="ultrasuono rapporto antropometrico" style="width: 100%;" />
 
+[Instructions Ultrasuono.pdf](https://github.com/user-attachments/files/22744240/Instructions.Ultrasuono.pdf)
